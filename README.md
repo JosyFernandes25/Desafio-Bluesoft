@@ -1,5 +1,5 @@
 ### Desafio Bluesoft: Testes explorátórios em site de cadastro 📥
-**Desafio de projeto proposto pela Empresa Bluesoft em Janeiro/2022 com uso de técnica de testes exploratórios para mapenamento de sistema de cadastro.**
+**Desafio de projeto proposto pela Empresa Bluesoft em Janeiro/2022 com uso de técnica de testes exploratórios para mapeamento de sistema de cadastro.**
 
 **_📃 Abordagens:_**
 
